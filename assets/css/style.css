@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* la carte blanche avec arrondis et ombre */
+.carte {
+    width: 360px;
+    padding: 30px;
+    background: #ffffffee;
+    border-radius: 12px;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    transition: 0.3s ease;
+}
+
+.carte:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 12px 28px rgba(0, 0, 0, 0.18);
+}
+
+/* l'avatar rond, limité en taille et avec une ombre */
+.avatar {
+    max-width: 120px;
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    object-fit: cover;
+    border: 4px solid #fff;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.15);
+}
+
+h1 {
+    font-size: 24px;
+    color: #222;
+    margin: 8px 0;
+}
+
+h2 {
+    font-size: 18px;
+    color: #555;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+ul li {
+    font-size: 15px;
+    margin-bottom: 6px;
+    color: #444;
+}
+
+a {
+    color: #6f42c1;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #512a8c;
+}
