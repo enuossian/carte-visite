@@ -14,3 +14,4 @@ J’ai commencé par créer un fichier `index.html` pour poser la structure de m
 
 Ensuite, j’ai créé le fichier `style.css` dans le dossier `assets/css/` pour mettre en forme la carte. J’ai ajouté un fond en dégradé rose pour rendre la page plus attrayante, puis j’ai centré la carte au milieu de l’écran avec flexbox. J’ai stylisé le conteneur `.carte` avec des coins arrondis, une ombre et un léger effet au survol pour le rendre plus dynamique. L’avatar a été redimensionné et j’y ai ajouté une bordure ainsi qu’une ombre pour un rendu professionnel.
 
+Lien vers mon profil hackerrank : https://www.hackerrank.com/profile/naissounem
