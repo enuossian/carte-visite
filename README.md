@@ -6,7 +6,7 @@ Cette carte de visite est un projet réalisé en HTML5 et CSS3 pour présenter m
 
 - `index.html` : contient la structure de la carte de visite (nom, titre, motivations, avatar et liens vers mon profil Github).  
 - `assets/css/style.css` : contient le style de la carte, le fond, la mise en forme des titres, la liste, le lien et l'avatar. 
-- `images/avatar.png` : image utilisée comme avatar.
+- `images/avatar.png` : image utilisée comme avatar!
 
 ## Description des tâches effectuées
 
